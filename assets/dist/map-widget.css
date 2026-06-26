@@ -1,0 +1,1 @@
+.featured-map{height:750px}.featured-map #map{position:absolute;top:0}.featured-map .featured-caption{pointer-events:none;position:absolute;bottom:100px;top:auto;transform:translateY(0);z-index:100}.featured-map .featured-caption .text-center>div,.featured-map .featured-caption .text-left>div,.featured-map .featured-caption .text-right>div{pointer-events:all}
